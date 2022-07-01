@@ -2,7 +2,7 @@
 
 ## Descrição do projeto:
  - Projeto criado para aprendizado de Kotlin, utilizando classes e instâncias.
-- O app possui as imagens referentes aos estados dos "limões". A cada click, vc muda o estado, mudando respectivamente a sua imagem. Na imagem do limão, são gerados resultados aleatórios de quantas vezes você irá expremê-lo até ele virar a limonada, mudando assim o estado e sua respectiva imagem.
+- O app possui as imagens referentes aos estados dos "limões". A cada click, vc muda o estado, mudando respectivamente a sua imagem. Na imagem do limão, são gerados resultados aleatórios de quantas vezes você irá espremê-lo até ele virar a limonada, mudando assim o estado e sua respectiva imagem.
 
 -Video do app rodando:
 
